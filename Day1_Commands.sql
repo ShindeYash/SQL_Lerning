@@ -252,6 +252,11 @@ values
     'Spouse'
   );
 
+select * from employee;
+select * from department;
+select * from dependent;
+select * from dept_locations;
+select * from project;
 
 alter table employee
 add
